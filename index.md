@@ -217,7 +217,7 @@ for more information.
 </p>
 
 <p>
-  Here is our <a href="https://docs.google.com/spreadsheets/d/1ZnaEGzq1ZCRbMvnGP4VvWOKb0y5oiXnrOgTk8vGar4U/edit?usp=sharing"</a> schedule for the four days.
+  Here is our <a href="https://docs.google.com/spreadsheets/d/1ZnaEGzq1ZCRbMvnGP4VvWOKb0y5oiXnrOgTk8vGar4U/edit?usp=sharing">schedule </a> for the four days.
 </p>
 
 
